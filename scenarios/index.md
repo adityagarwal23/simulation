@@ -6,4 +6,4 @@ nav_order: 3
 
 # Scenarios
 
-Add more events under this directory.
+The events are listed under the scenarios. 

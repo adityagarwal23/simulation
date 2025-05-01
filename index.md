@@ -5,11 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
-# Just Another Simulation
+# San Francisco Simulation
 
 ![Placeholder](assets/images/placeholder.png)
 
-This is a template for creating new simulations.
+San Francisco Simulation created by Group 4 for Future of Security Class.
 
 Below is a list of resources about the website.
 

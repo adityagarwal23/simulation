@@ -6,4 +6,4 @@ nav_order: 99
 
 # Team Central
 
-Everything about the team.
+Below are the links to the Role Assignments and Communication tab to communicate with individuals or your assigned groups. 

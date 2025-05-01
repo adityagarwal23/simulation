@@ -1,6 +1,6 @@
 center:
-  latitude: 37.229572
-  longitude: -80.413940
+  latitude: 37.7749
+  longitude: 122.4194
   zoom: 9
 locations:
   - name: VT
@@ -8,3 +8,8 @@ locations:
     latitude: 37.2249991
     longitude: -80.4249983
     url: https://www.vt.edu
+  - name: Earthquake
+    description: San Francisco Earthquake
+    latitude: 37.7749
+    longitude: -122.4194
+    url: https://earthquake.usgs.gov/earthquakes/eventpage/nc73312311/executive
