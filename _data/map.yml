@@ -1,15 +1,22 @@
 center:
   latitude: 37.7749
-  longitude: 122.4194
+  longitude: -122.4194
   zoom: 9
 locations:
-  - name: VT
-    description: Go Hokies!
-    latitude: 37.2249991
-    longitude: -80.4249983
-    url: https://www.vt.edu
   - name: Earthquake
     description: San Francisco Earthquake
     latitude: 37.7749
-    longitude: -122.4194
+    longitude: -121.4194
     url: https://earthquake.usgs.gov/earthquakes/eventpage/nc73312311/executive
+  - name: Drought
+    description: Drought
+    latitude: 37.7749
+    longitude: -121.42
+  - name: Cyber Attack
+    description: Cyber Attack
+    latitude: 37.7749
+    longitude: -121.4023
+  - name: Tech Company Bankruptcy
+    description: Tech Company Bankruptcy
+    latitude: 37.7749
+    longitude: -121.4
